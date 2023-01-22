@@ -1,0 +1,3 @@
+index,employeeName,employeeId,taskCode,taskName,evaluationId,evaluationTitle,description,companyTaskListName,addedby,interval
+1,"Admin, KMS",EWN-471187,0001,Measure Structure-To-Electrolyte Potential,117173,CBT_OT-032_01,Auto For OT032,Vijee B31Q Task List,Automation Administrator,36
+2,"Administrator, Automation",EWN-398944,0011,Conduct Close Interval Survey,117175,CBT_OT-032_02,,,,

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "20218242919C0678ACFD0FEA3CDC7298",
+  "keywordClasses": [
+    {
+      "name": "com.ewn.account.management.UserAssignmentsPage",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

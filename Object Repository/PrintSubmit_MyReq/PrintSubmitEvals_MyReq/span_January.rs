@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_January</name>
+   <tag></tag>
+   <elementGuidId>69d6b956-771b-41ca-954d-fdca394e27f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='datepicker-891-9751-0']/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-binding.text-info</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d19c76fb-34b0-4624-af41-299d3685cdb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>::{'text-info': dt.current}</value>
+      <webElementGuid>06a7474d-5e30-4724-bbc4-996d5db8aada</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding text-info</value>
+      <webElementGuid>b264e2f1-d8a5-4718-ba3b-be56e73cfb18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>January</value>
+      <webElementGuid>373cb944-7d4d-476d-bea1-24077578107e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datepicker-891-9751-0&quot;)/button[@class=&quot;btn btn-default btn-info active&quot;]/span[@class=&quot;ng-binding text-info&quot;]</value>
+      <webElementGuid>3c32f324-42f5-478f-a05b-6c324d42c1c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='datepicker-891-9751-0']/button/span</value>
+      <webElementGuid>475866e0-2199-46b4-9eaf-bf5f57ab9f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evaluation Date:'])[1]/following::span[1]</value>
+      <webElementGuid>31ff33e3-d1f1-470d-b764-13144c4371ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected Evaluations'])[1]/following::span[3]</value>
+      <webElementGuid>681349b5-3d09-4485-84a9-82419990de78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='February'])[1]/preceding::span[1]</value>
+      <webElementGuid>dcb4671e-540e-4934-b49b-e1bbfa4f95c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='March'])[1]/preceding::span[2]</value>
+      <webElementGuid>59557c67-d456-4e95-9d55-86ac6127e2e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='January']/parent::*</value>
+      <webElementGuid>fc914113-10b2-4088-9a78-f73830ad80ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/button/span</value>
+      <webElementGuid>c2567374-744d-4b73-9972-f62777311482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'January' or . = 'January')]</value>
+      <webElementGuid>a20cd193-9362-4bd3-a8d0-e7a97c098768</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

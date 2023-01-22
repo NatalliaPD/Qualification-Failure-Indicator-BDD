@@ -1,0 +1,2 @@
+index,taskName,taskListName,allGracePeriodValue,defaultGracePeriodValue,evaluationAuthor,evaluationId1,evaluationName1,evaluationId2,evaluationName2
+1,Auto Task 008 with 2 conditions,Automation Task Lists,5,10,Energy Worldnet,2203,EWN-CBT-AOC Alarms,2208,EWN-CBT-AOC Fire on a Pipeline

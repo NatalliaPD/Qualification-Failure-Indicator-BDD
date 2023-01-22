@@ -1,0 +1,6 @@
+index,firstName,lastName,id,evaluationTitle,evaluationID,assignedMethod,evaluationAuthor
+1,Admin,KMS,EWN-138832,Evaluation Assigned Directly for UA-022,117108,Direct,KMS Operator DO NOT ALTER! FOR AUTOMATION ONLY
+2,Admin,KMS,EWN-138832,Evaluation for UA-022.03,117109,Project,
+3,Admin,KMS,EWN-138832,Evaluation for UA-022.03,117109,JobTitle,
+4,Admin,KMS,EWN-138832,Evaluation for UA-022.03,117109,Facility,
+5,Admin,KMS,EWN-138832,Evaluation for UA-022.03,117109,Group,

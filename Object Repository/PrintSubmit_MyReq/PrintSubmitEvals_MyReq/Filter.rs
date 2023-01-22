@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Filter</name>
+   <tag></tag>
+   <elementGuidId>d1ef1e77-1c32-42ed-bc45-0ae78c1bc67d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span [@data-translate = 'ui_Generic_FilterButton'])[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ewn-evaluation-dual-listbox.ng-isolate-scope > div.container-fluid.text-center > button.btn.button-secondary > span.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0765fffd-8414-4bd9-b51e-073fbf39c4c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-translate</name>
+      <type>Main</type>
+      <value>ui_Generic_FilterButton</value>
+      <webElementGuid>d8e1ca61-a324-4c58-9ec7-02ca61a852c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+      <webElementGuid>0ac11497-f39d-4fc2-b6a4-5b995deda342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filter</value>
+      <webElementGuid>26fe81ab-1e83-407d-a8f9-6783fb87d530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;product-section ng-scope&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane ng-scope active&quot;]/form[@class=&quot;form-horizontal ng-scope ng-invalid ng-invalid-required ng-valid-date ng-dirty ng-valid-parse&quot;]/ewn-evaluation-dual-listbox[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;container-fluid text-center&quot;]/button[@class=&quot;btn button-secondary&quot;]/span[@class=&quot;ng-scope&quot;]</value>
+      <webElementGuid>4983cc8f-3674-4e9a-9029-c6a014df4a69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div[3]/div/div/form/ewn-evaluation-dual-listbox/div[2]/button/span[2]</value>
+      <webElementGuid>7ea9e672-0f63-41e7-977e-d3a9157f679f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order By:'])[1]/following::span[2]</value>
+      <webElementGuid>97407f6c-d398-4684-993d-f30816621024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evaluation Type:'])[1]/following::span[2]</value>
+      <webElementGuid>25d15acc-34ce-4924-a769-99b8e1f222db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available Evaluations'])[1]/preceding::span[2]</value>
+      <webElementGuid>d808a770-ad6a-427c-ae9d-30d2b1477bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected Evaluations'])[1]/preceding::span[4]</value>
+      <webElementGuid>0d05d148-8837-447f-b810-645a20977092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ewn-evaluation-dual-listbox/div[2]/button/span[2]</value>
+      <webElementGuid>a721d5ac-ef3a-469d-86bd-4954d47e106b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Filter' or . = 'Filter')]</value>
+      <webElementGuid>b4915648-2bb2-40f7-9f0a-e56a7653ee69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

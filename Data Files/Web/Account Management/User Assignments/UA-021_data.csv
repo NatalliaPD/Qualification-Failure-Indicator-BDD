@@ -1,0 +1,11 @@
+index,taskCode,taskTitle,taskAssignedMethod
+1,TASK_04,Task for UA-022.03,JobTitle
+2,TASK_05,Task assigned directly for UA-022,Direct
+3,TASK_04,Task for UA-022.03,Facility
+4,TASK_04,Task for UA-022.03,Group
+5,TASK_04,Task for UA-022.03,Project
+6,TASK_04,Task for UA-022.03,JobTitle
+7,TASK_01,Task for UA-022.01,Project
+8,TASK_03,Task for User Management,Group
+9,TASK_02,Task for UA-022.02,Facility
+10,TASK_05,Task assigned directly for UA-022,Direct

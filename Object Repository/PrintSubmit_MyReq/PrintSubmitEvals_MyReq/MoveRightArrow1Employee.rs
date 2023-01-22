@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MoveRightArrow1Employee</name>
+   <tag></tag>
+   <elementGuidId>602e7988-fa89-4b63-a8ab-18599f2651e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='btn btn-sm btn-default ri-arrow-right-s-line'])[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn.btn-sm.btn-default.ri-arrow-right-s-line</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>63ac7e76-15d7-49ac-97fb-60337f44b76d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-default ri-arrow-right-s-line</value>
+      <webElementGuid>22e1c624-e8d6-4ea7-a26e-31c2157e61e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vm.move(vm.left.filteredItems, config.left.items, config.right.items)</value>
+      <webElementGuid>569802c1-f3f0-4fea-b950-68b6e395f6ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;product-section ng-scope&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane ng-scope active&quot;]/form[@class=&quot;form-horizontal ng-scope ng-invalid ng-invalid-required ng-valid-date ng-dirty ng-valid-parse&quot;]/ewn-employee-dual-listbox[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1&quot;]/ewn-dual-list[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;dual-list clearfix&quot;]/div[@class=&quot;col-xs-12 col-sm-12 col-md-2 col-lg-2 text-center move-button-group&quot;]/div[@class=&quot;btn btn-sm btn-default ri-arrow-right-s-line&quot;]</value>
+      <webElementGuid>a34b2914-5398-454b-a75e-36220721d622</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div[3]/div/div/form/ewn-employee-dual-listbox/div/ewn-dual-list/div/div[2]/div</value>
+      <webElementGuid>13b3ee3b-49bf-410e-90f6-e7b62878abb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ewn-dual-list/div/div[2]/div</value>
+      <webElementGuid>86987f76-98e2-41bc-99b8-bdd0e1f93de5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

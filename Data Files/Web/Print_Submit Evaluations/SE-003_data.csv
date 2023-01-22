@@ -1,0 +1,5 @@
+index,employeeName,employeeId,evaluationType,evaluationId,evaluationTitle,score,evaluationDate,status,evaluator
+1,"Huynh, Huyen",EWN-712251,Computer Based Training,118612,CBT for SE-001,97,08/18/2022,Passed,"Administrator, Automation"
+2,,,Performance Evaluation,118613,PE for SE-001,,,,
+3,,,Record Only,118615,RE for SE-001,97,,,
+4,,,Written Evaluation,118614,WE for SE-001,97,,,

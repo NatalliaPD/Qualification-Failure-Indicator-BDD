@@ -1,0 +1,14 @@
+{
+  "keywordFileContentHash": "8B12652F550819032CD6D9B87B4ED90F",
+  "keywordClasses": [
+    {
+      "name": "com.ewn.fw.lib.utilities.MailTrapEmailHelper",
+      "keywordMethods": []
+    },
+    {
+      "name": "com.ewn.fw.lib.utilities.MailTrapEmailHelper$RequestMethod",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_View user status by organizational tool</name>
+   <tag></tag>
+   <elementGuidId>dd617063-1d92-4843-8519-bdc70c2ccdb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.list-group-item.side-menu-list.ng-scope.current-page > div.side-menu-list-container > a > div.submenu-item > div.link-description.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordiongroup-298-6533-panel']/div/ul/li[2]/div/a/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e55d67e1-0a0d-417f-ac7a-b796e77d6a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link-description ng-binding</value>
+      <webElementGuid>2c3cbe6b-8d9a-4688-8aba-f8355bddb8fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind</name>
+      <type>Main</type>
+      <value>link.description</value>
+      <webElementGuid>f521de02-e256-473c-816b-dccadb33d863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View user status by organizational tool</value>
+      <webElementGuid>b1d9bf8f-2860-4257-aa5a-250e8bff742d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordiongroup-298-6533-panel&quot;)/div[@class=&quot;panel-body&quot;]/ul[@class=&quot;list-group ng-scope&quot;]/li[@class=&quot;list-group-item side-menu-list ng-scope current-page&quot;]/div[@class=&quot;side-menu-list-container&quot;]/a[1]/div[@class=&quot;submenu-item&quot;]/div[@class=&quot;link-description ng-binding&quot;]</value>
+      <webElementGuid>112948bc-4ec6-4239-b048-dfebbe1c10d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordiongroup-298-6533-panel']/div/ul/li[2]/div/a/div/div[2]</value>
+      <webElementGuid>75fcbeea-de99-4277-be2a-3dc1dadee4ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organizational Tool Status'])[2]/following::div[1]</value>
+      <webElementGuid>b907bf27-7fde-4321-a687-94761b7d3ddb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View the task or evaluation status of users'])[1]/following::div[5]</value>
+      <webElementGuid>f5edce70-e51c-40b2-8491-1f595919e178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity'])[2]/preceding::div[2]</value>
+      <webElementGuid>d3df8e68-94e8-4a69-be94-372554de3887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View evaluation activity for users'])[1]/preceding::div[3]</value>
+      <webElementGuid>ea21179b-36cd-4c90-a9d6-e3792c4ba0e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[2]/div/ul/li[2]/div/a/div/div[2]</value>
+      <webElementGuid>e9914527-a60c-42d6-b0fe-61dd434082f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'View user status by organizational tool' or . = 'View user status by organizational tool')]</value>
+      <webElementGuid>0ff3053b-f68c-4bdf-980e-32cefa0ea017</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

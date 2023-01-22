@@ -1,0 +1,3 @@
+index,employeeName,employeeId,evaluationType,evaluationId,evaluationTitle,score,evaluationDate,status,evaluator,evaluationAuthor
+1,"Huynh, Huyen",EWN-712251,Computer Based Training,99693,FUN CRICKET CBT,97,8/18/2022,Passed,"Nhung, test (3rd Party)",Vijee Operator Inc
+2,"Nguyen, Ngan",EWN-215408,,107415,FUNCRICKET_Deprecated,,,,,

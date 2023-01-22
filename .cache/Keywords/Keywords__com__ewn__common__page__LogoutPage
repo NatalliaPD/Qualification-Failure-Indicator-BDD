@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "5BDDED845E072FB86B0BD4C52ADCA52B",
+  "keywordClasses": [
+    {
+      "name": "com.ewn.common.page.LogoutPage",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

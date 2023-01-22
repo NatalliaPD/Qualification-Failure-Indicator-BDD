@@ -1,0 +1,13 @@
+index,projectName1,projectName2,projectCode1,projectCode2,taskName1,taskCode1,taskName2,taskCode2,taskListName
+1,KMS-The Automation Team - KMS-The Automation Team - RPT_Task Names,KMS-The Automation Team - KMS-The Automation Team - RPT_Project Names,RPT_Task Names,RPT_Project Names,Task_OrgToolStatusReport_Automation_01 (1:0),Task_OTS-023,Task_OrgToolStatusReport_Automation_02 (1:0),Task_OTS-024,Task_List_Rpt_Automation_01
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Data Setup,,,,,,,,
+1,ProjectName1 has Task_OTS-023 and user EWN-415871,"Add the task into the project-> Tasks Tab , add the user into the project ->  Users tab",,,,,,,
+2,ProjectName2 has Task_OTS-024 and user EWN-415871,"Add the task into the project-> Tasks Tab , add the user into the project ->  Users tab",,,,,,,
+3,"Task_OTS-024 has condition = EA_OrgToolStatusReport_02
+Task_OTS-023 has condition = EA_OrgToolStatusReport_01",add the evaluations to tasks (Task-> condition Tab),,,,,,,
+4,Task list "Task_List_Rpt_Automation_01" includes Task_OTS-023 and Task_OTS-024,,,,,,,,

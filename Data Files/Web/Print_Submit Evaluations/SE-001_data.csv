@@ -1,0 +1,5 @@
+index,employeeName,employeeId,evaluationType,evaluationId,evaluationTitle,score,evaluationDate,status,evaluator,evaluationAuthor
+1,"Huynh, Huyen",EWN-712251,Computer Based Training,2198,EWN-CBT-Abandonment of Facilities,97,8/18/2022,Passed,"Nhung, test (3rd Party)",Energy Worldnet
+2,,,Performance Evaluation,2199,EWN-PE-Abandonment of Facilities,,,,,
+3,,,Record Only,78369,KNT 192-0301 Operating Gas Compressor Units (MEA1131),97,,,,
+4,,,Written Evaluation,2592,EWN-WE-Measure Structure-to-Soil Potentials (1.1),97,,,,

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FilterAgain</name>
+   <tag></tag>
+   <elementGuidId>4f5e6d94-8432-4cfa-848b-95c7748b6efe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-content']/div/div[3]/div/div/form/ewn-evaluation-dual-listbox/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'ri-filter-3-line']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ewn-evaluation-dual-listbox.ng-isolate-scope > div.container-fluid.text-center > button.btn.button-secondary > span.ri-filter-3-line</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>956a91c2-f540-4a8f-9938-9248a8eff7f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ri-filter-3-line</value>
+      <webElementGuid>baa0bfa5-71cd-4de1-b7a9-f946ec6696be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;product-section ng-scope&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane ng-scope active&quot;]/form[@class=&quot;form-horizontal ng-scope ng-invalid ng-invalid-required ng-valid-date ng-dirty ng-valid-parse&quot;]/ewn-evaluation-dual-listbox[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;container-fluid text-center&quot;]/button[@class=&quot;btn button-secondary&quot;]/span[@class=&quot;ri-filter-3-line&quot;]</value>
+      <webElementGuid>d0d40f8c-9802-416f-a319-9bce3c9f3abd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div[3]/div/div/form/ewn-evaluation-dual-listbox/div[2]/button/span</value>
+      <webElementGuid>af10d0a6-ea8f-47cf-9cf5-a525fa21e3f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ewn-evaluation-dual-listbox/div[2]/button/span</value>
+      <webElementGuid>6b329169-dcd8-4699-b4d7-25af890d3e3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

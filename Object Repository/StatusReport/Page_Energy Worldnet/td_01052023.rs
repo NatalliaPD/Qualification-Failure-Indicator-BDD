@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_01052023</name>
+   <tag></tag>
+   <elementGuidId>bac8b92f-842f-4fbd-956c-0770eec5c5b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.text-center.text-danger.ng-binding.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='user0-task0']/table/tbody/tr[2]/td[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>49535f20-6b8f-4e70-9496-9e684179c8a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center text-danger ng-binding ng-scope</value>
+      <webElementGuid>093e96de-3d56-4491-bfc3-da0080669d63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>isDetailedView &amp;&amp; e.isFailed</value>
+      <webElementGuid>c93aafcc-ea62-49d7-9e20-8a633eb4d571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind</name>
+      <type>Main</type>
+      <value>e.expiresOn ? (e.expiresOn | date:'MM/dd/yyyy') : (evaluationUtil.getExpirationPlaceholder(e) | translate)</value>
+      <webElementGuid>7716fd11-fcf2-4696-b1e3-8369c44b1bcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-uib-popover</name>
+      <type>Main</type>
+      <value>Task qualification ended on this date due to a failure of the evaluation.</value>
+      <webElementGuid>06917a9a-888b-4b57-9d43-2565eba210c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-popover-placement</name>
+      <type>Main</type>
+      <value>top-right</value>
+      <webElementGuid>d1a15472-9bc3-4c0d-bb96-beb7dd6c2eab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-popover-trigger</name>
+      <type>Main</type>
+      <value>mouseenter outsideClick</value>
+      <webElementGuid>3d1a0106-a4e7-47c2-801a-8296194faee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>popover-append-to-body</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>185fe6f5-6fb7-426d-8f24-47b594e40172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>01/05/2023</value>
+      <webElementGuid>d3709f94-3e1d-4c38-9f72-fd1cd7758b37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user0-task0&quot;)/table[@class=&quot;table table-striped table-condensed&quot;]/tbody[@class=&quot;ng-scope&quot;]/tr[@class=&quot;ng-scope&quot;]/td[@class=&quot;text-center text-danger ng-binding ng-scope&quot;]</value>
+      <webElementGuid>23f1054a-c00b-48b6-bb83-73035bbbd015</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='user0-task0']/table/tbody/tr[2]/td[5]</value>
+      <webElementGuid>d5fcf426-43b9-423d-a32e-718a8c5f8b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PE_Ballet'])[1]/following::td[2]</value>
+      <webElementGuid>f7076bd4-9910-49cb-81b8-6ef3f9934679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Performance Evaluation'])[2]/following::td[4]</value>
+      <webElementGuid>d20dcf43-8d18-4f12-8b8d-5048892db5fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Wait...'])[3]/preceding::td[4]</value>
+      <webElementGuid>ec11c983-fdde-45f1-8cf8-64704ec7d9b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live chat:'])[1]/preceding::td[4]</value>
+      <webElementGuid>e6c618a1-fb19-4594-ba15-e335de9770ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[5]</value>
+      <webElementGuid>cf3e5281-6fc6-4e72-85f5-a62da8cb9f56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '01/05/2023' or . = '01/05/2023')]</value>
+      <webElementGuid>c2a3d4fe-df99-4f38-8b2c-b84c04798370</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

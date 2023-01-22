@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_WE_Non-Exp_btn btn-sm btn-default ri-ar_d49a9a</name>
+   <tag></tag>
+   <elementGuidId>0803609c-9662-49b5-9d54-67f07c244166</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ewn-dual-list.ng-scope.ng-isolate-scope > div.dual-list.clearfix > div.col-xs-12.col-sm-12.col-md-2.col-lg-2.text-center.move-button-group > div.btn.btn-sm.btn-default.ri-arrow-right-s-line</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;accordiongroup-35-4065-panel&quot;]/div/ng-transclude/div/ewn-dual-list/div/div[2]/div[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7c18c753-8fe8-40b1-aeed-177b3aeca3f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-default ri-arrow-right-s-line</value>
+      <webElementGuid>eb7e090d-6aa4-43c9-ba9a-326005d8e8de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vm.move(vm.left.filteredItems, config.left.items, config.right.items)</value>
+      <webElementGuid>96a1c218-4ed6-44c8-8d30-fbd9f22b7710</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordiongroup-63-243-panel&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1 ng-scope&quot;]/ewn-dual-list[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;dual-list clearfix&quot;]/div[@class=&quot;col-xs-12 col-sm-12 col-md-2 col-lg-2 text-center move-button-group&quot;]/div[@class=&quot;btn btn-sm btn-default ri-arrow-right-s-line&quot;]</value>
+      <webElementGuid>fd2af505-b44c-430a-8f59-2fbe58409d8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordiongroup-63-243-panel']/div/div[4]/ewn-dual-list/div/div[2]/div</value>
+      <webElementGuid>8ce2e74e-7f76-45a9-a75d-9f1f4889e242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ewn-dual-list/div/div[2]/div</value>
+      <webElementGuid>3460d51e-6c06-4f60-80ae-2edc9aa24d6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

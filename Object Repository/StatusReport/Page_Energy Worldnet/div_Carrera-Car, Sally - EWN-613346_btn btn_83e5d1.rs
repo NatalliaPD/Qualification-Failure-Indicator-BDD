@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Carrera-Car, Sally - EWN-613346_btn btn_83e5d1</name>
+   <tag></tag>
+   <elementGuidId>a33a018e-b7cc-4497-907c-806013fdd93f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn.btn-sm.btn-default.ri-arrow-right-s-line</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmTaskStatus']/div[3]/ewn-associate-dual-listbox/div/ewn-dual-list/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f733e7b9-f79d-4baa-8ff3-b4e64c636503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-default ri-arrow-right-s-line</value>
+      <webElementGuid>f8e974d2-305e-455c-88b5-5c23f3406c3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vm.move(vm.left.filteredItems, config.left.items, config.right.items)</value>
+      <webElementGuid>8467a49a-33d4-426c-8a2a-44b48f6ec93a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmTaskStatus&quot;)/div[@class=&quot;ng-scope&quot;]/ewn-associate-dual-listbox[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1 ng-scope&quot;]/ewn-dual-list[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;dual-list clearfix&quot;]/div[@class=&quot;col-xs-12 col-sm-12 col-md-2 col-lg-2 text-center move-button-group&quot;]/div[@class=&quot;btn btn-sm btn-default ri-arrow-right-s-line&quot;]</value>
+      <webElementGuid>71242487-c877-498d-80be-0cc0bdd0f910</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmTaskStatus']/div[3]/ewn-associate-dual-listbox/div/ewn-dual-list/div/div[2]/div</value>
+      <webElementGuid>315c69e8-3e71-4408-8518-eb27c76f6e18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ewn-dual-list/div/div[2]/div</value>
+      <webElementGuid>5a5d119c-ecb0-41cf-a7f8-61a890cf14b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

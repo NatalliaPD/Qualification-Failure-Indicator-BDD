@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SearchAvailableEmployeeField</name>
+   <tag></tag>
+   <elementGuidId>3f9d6d89-4fe1-4300-aa21-388dccaa46b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@placeholder=&quot;Search&quot;])[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@placeholder = 'Search']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.input-group.input-group-sm > input.form-control.ng-pristine.ng-untouched.ng-valid.ng-empty</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e0f6a7d8-b22e-448e-8940-c8b7acd63ec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-pristine ng-untouched ng-valid ng-empty</value>
+      <webElementGuid>7b477e96-4a6a-49f9-9c5d-548d0a5c84ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>vm.left.search</value>
+      <webElementGuid>9a63993f-7c84-4929-948b-9f23234bffd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-keydown</name>
+      <type>Main</type>
+      <value>vm.preventSubmit($event)</value>
+      <webElementGuid>8e4c1fdf-edd8-44ae-af03-9ad975cdfe69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>f0c24f05-46bb-492b-ba47-0c1787e5495f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;product-section ng-scope&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane ng-scope active&quot;]/form[@class=&quot;form-horizontal ng-pristine ng-scope ng-invalid ng-invalid-required ng-valid-date&quot;]/ewn-employee-dual-listbox[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1&quot;]/ewn-dual-list[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;dual-list clearfix&quot;]/div[@class=&quot;dual-list-left col-xs-12 col-sm-12 col-md-5 col-lg-5 droppable&quot;]/div[@class=&quot;input-group input-group-sm&quot;]/input[@class=&quot;form-control ng-pristine ng-untouched ng-valid ng-empty&quot;]</value>
+      <webElementGuid>bdd807be-aea6-480b-afe9-7ca02c8347ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div[3]/div/div/form/ewn-employee-dual-listbox/div/ewn-dual-list/div/div/div/input</value>
+      <webElementGuid>61c28d63-291f-4509-9249-1748fac91c50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ewn-dual-list/div/div/div/input</value>
+      <webElementGuid>310d402d-9b33-44a4-9a6c-848ae7f65211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Search']</value>
+      <webElementGuid>860526a9-e00f-4194-8eef-8336b1eca372</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

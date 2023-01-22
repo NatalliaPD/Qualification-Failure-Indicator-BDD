@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Evaluation Date_ri-calendar-event-line_1</name>
+   <tag></tag>
+   <elementGuidId>e07ff2f5-2ad3-404f-920b-e634ceb50dd1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-content']/div/div[3]/div/div/form/div/div/div/ewn-datepicker/div/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ri-calendar-event-line</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>27247ead-49d3-466e-9b4e-2707db55b305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ri-calendar-event-line</value>
+      <webElementGuid>0d38d274-4e55-49a5-b44b-b92f7f104931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;product-section ng-scope&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane ng-scope active&quot;]/form[@class=&quot;form-horizontal ng-scope ng-invalid ng-invalid-required ng-valid-date ng-dirty ng-valid-parse ng-valid-date-disabled ng-valid-min ng-valid-max&quot;]/div[@class=&quot;well well-sm ng-invalid ng-invalid-required ng-valid-date ng-valid-date-disabled ng-dirty ng-valid-parse ng-valid-min ng-valid-max&quot;]/div[@class=&quot;row form-group form-group-sm&quot;]/div[@class=&quot;col-sm-9&quot;]/ewn-datepicker[@class=&quot;ng-valid ng-isolate-scope ng-not-empty ng-valid-required ng-dirty ng-valid-min ng-valid-max ng-touched&quot;]/div[@class=&quot;ewn-datepicker input-group input-group-sm col-xs-12&quot;]/div[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-primary&quot;]/span[@class=&quot;ri-calendar-event-line&quot;]</value>
+      <webElementGuid>8fc91d0b-a0d1-405d-a054-88bb8591fcfd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div[3]/div/div/form/div/div/div/ewn-datepicker/div/div[2]/button/span</value>
+      <webElementGuid>71582ffe-198c-409f-8c3b-465b20ce1c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ewn-datepicker/div/div[2]/button/span</value>
+      <webElementGuid>d9b46b3d-e8f0-46a1-8eac-b1521ac951d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

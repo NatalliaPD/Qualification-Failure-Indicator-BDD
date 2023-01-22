@@ -1,0 +1,4 @@
+userName,userId,fullUserName,evaluatorUserId,evaluationAuthor,evaluationType,evaluationId,evaluationTitle,taskListName,taskName,taskCode,preRequiredMsg
+PreReq 01,EWN-224821,KMS PreReq 01 - EWN-224821,EWN-398944,KMS-The Automation Team,Computer Based Training,118179,CBT ET-009 - not completed,Prereq - ET-009,Prereq - ET-009,Task-ET-009,This evaluation has at least one prerequisite that must be completed. Please have the employee check the 'Task View' of 'My Requirements' to see which prerequisite(s) have not been completed.
+,,,,KMS-The Automation Team,Computer Based Training,118172,CBT with english and Spanish Exam ET-009,,,,
+,,,,KMS-The Automation Team,Performance Evaluation,118171,PE for Evaluator ET-009,,,,

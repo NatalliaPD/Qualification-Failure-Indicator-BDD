@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "A8800E2F77736DE0AE17662679B0FE03",
+  "keywordClasses": [
+    {
+      "name": "com.ewn.common.page.FileHelper",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Quantum-Operator LLC (by Natallia)  - Work_Project_btn btn-sm btn-default ri-arrow-right-s-line</name>
+   <tag></tag>
+   <elementGuidId>4d130e4c-71d5-457b-b617-85e41df6233b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn.btn-sm.btn-default.ri-arrow-right-s-line</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-content']/div/div/div/div/form/div[2]/ewn-dual-list/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'btn btn-sm btn-default ri-arrow-right-s-line']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>50a1a14e-ee5b-4eb2-8fd9-8400fc1b796d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-default ri-arrow-right-s-line</value>
+      <webElementGuid>a3920f90-27e1-4240-a1f8-29bfa4e36541</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vm.move(vm.left.filteredItems, config.left.items, config.right.items)</value>
+      <webElementGuid>99c2cdb2-deb2-4df7-adee-801c6ae57b0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;product-section group-item-status-report ng-scope&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane ng-scope active&quot;]/form[@class=&quot;form-horizontal ng-valid ng-scope ng-valid-required ng-dirty ng-valid-parse ng-valid-date&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1&quot;]/ewn-dual-list[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;dual-list clearfix&quot;]/div[@class=&quot;col-xs-12 col-sm-12 col-md-2 col-lg-2 text-center move-button-group&quot;]/div[@class=&quot;btn btn-sm btn-default ri-arrow-right-s-line&quot;]</value>
+      <webElementGuid>5962cc31-e488-425f-ae97-034e6419e451</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div/div/div/form/div[2]/ewn-dual-list/div/div[2]/div</value>
+      <webElementGuid>7a247657-1289-4b43-acc2-00cf5a079c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ewn-dual-list/div/div[2]/div</value>
+      <webElementGuid>9be2cee3-9856-42a0-999a-719a65dbf65a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

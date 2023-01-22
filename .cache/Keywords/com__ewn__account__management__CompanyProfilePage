@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "2A8DD31291D387651151C9630974BDAA",
+  "keywordClasses": [
+    {
+      "name": "com.ewn.account.management.CompanyProfilePage",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

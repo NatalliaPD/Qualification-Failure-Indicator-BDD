@@ -1,0 +1,14 @@
+index,taskListName,employeeName,employeeId,taskName,evaluationName,evaluationId
+1,Vijee_Expiring_Task_TL,"KMS, Vijee",EWN-790282,Vijee_Expiring_Task (1:0),V1,117014
+,,,,,V2,117015
+,,,,,V3,117016
+,,,,,V4,117017
+,,,,,V5,117018
+,,,,,,
+,Data Setup,,,,,
+,Task list name has one task "Vijee_Expiring_Task",,,,,
+,The task name has 5 evaluations V1-V5 as its conditions,,,,,
+,Evaluations in task has interval 1 months -> 5 months for V1-V5,,,,,
+,"This task was assigned to the user KMS, Vijee",,,,,
+,the user was completed these evaluation on the last month (compare with current date) for V2-V5,,,,,
+,"For V1, complete Date is current Date",,,,,

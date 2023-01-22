@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "4F5AD69A95689DD61506BA802F8E8223",
+  "keywordClasses": [
+    {
+      "name": "com.ewn.request.authorizations.ConnectionsPage",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

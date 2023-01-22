@@ -1,0 +1,7 @@
+employeeName,employeeId,evaluationType,evaluationId,evaluationTitle,dateTaken,score,JobTitleName
+"Activity Report, Admin",EWN-591573,Computer Based Training,117057,CBT_EA_Common,07/25/2022,100,JobTitle_ACT-006
+"Activity Report, Admin",EWN-591573,Performance Evaluation,117458,PE_EA_Common,07/25/2022,100,
+"Activity Report, Admin",EWN-591573,Written Evaluation,118541,WE_EA_Common4,08/17/2022,100,
+"Activity Report, Admin",EWN-591573,Record Only,117727,RE_EA_Common,07/26/2022,60,
+"Activity Report, User",EWN-661801,Computer Based Training,117057,CBT_EA_Common,07/25/2022,40,
+"Activity Report, User",EWN-661801,Written Evaluation,118541,WE_EA_Common4,08/17/2022,40,

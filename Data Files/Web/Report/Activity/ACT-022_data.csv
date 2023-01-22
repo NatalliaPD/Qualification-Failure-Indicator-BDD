@@ -1,0 +1,4 @@
+index,employeeName,employeeId,evaluationType,evaluationId,evaluationTitle,dateTaken,score
+1,"Activity Report, Admin",EWN-591573,Computer Based Training,99693,FUN CRICKET CBT,08/02/2022,80
+2,,,Written Evaluation,117323,WE_Coaching_Report,08/02/2022,90
+3,,,Performance Evaluation,117612,Vijee_PE,08/02/2022,100

@@ -1,0 +1,26 @@
+﻿index,firstName,lastName,country,role,username,password,id,email,companyName
+1,Automation,Administrator,Viet Nam,Administrator (Contractor),automation+1,6XsfKXOo/sMq0CMLe0MRbVRNA3GpIC2P,EWN-398944,auto.admin@kms-technology.com,KMS-The Automation Team
+2,Automation,Non-Admin,Viet Nam,',automation+2,6XsfKXOo/sMq0CMLe0MRbVRNA3GpIC2P,EWN-501201,lauren.morton@energyworldnet.com,KMS-The Automation Team
+3,Stephen,Strange,Viet Nam,Administrator (Contractor),drstrange,6XsfKXOo/sMq0CMLe0MRbWEZF8KCJCP5,EWN-792671,auto.admin@kms-technology.com,Marvel Construction
+4,NganNonAdmin,Nguyen,Viet Nam,,ngannguyen+2,6XsfKXOo/sMq0CMLe0MRbVRNA3GpIC2P,EWN-509263,ngannguyen+2@kms-technology.com,KMS-The Automation Team
+5,KMS,Admin,United States,,KMS,p4y+y39Ir5OzeCXBgI9M+g==,EWN-471187,kms.user@kms-technology.com,KMS-The Automation Team
+6,Administrator,User For Report,United States,Administrator (Contractor),admin_userReport@kms-technology.com,6XsfKXOo/sMq0CMLe0MRbVRNA3GpIC2P,EWN-274274,admin_userReport@kms-technology.com,KMS-The Automation Team
+7,admin,Report,Viet Nam,,adminReportUser,6XsfKXOo/sMq0CMLe0MRbVRNA3GpIC2P,EWN-357911,,KMS-The Automation Team
+8,NonAdmin,Report User,Viet Nam,,ReportUserNonAdmin,6XsfKXOo/sMq0CMLe0MRbVRNA3GpIC2P,EWN-459594,,KMS-The Automation Team
+9,Administrator,Use For OTS Expired Report,United States,Administrator (Contractor),admin_OTSReport@kms-technology.com,UaMKvJ+lweveoK2S7ktXvQ==,EWN-142086,admin_OTSReport@kms-technology.com,KMS-The Automation Team
+10,Project_KMS_Automation,Admin,United States,Administrator (Contractor),Project_KMS_Automation_Admin,UzGkWU6GnqB7dZayZrbzZw==,EWN-282300,,KMS-The Automation Team
+11,Project_KMS_Automation,NonAdmin,United States,,Project_KMS_Automation_Non_Admin,UzGkWU6GnqB7dZayZrbzZw==,EWN-349999,,KMS-The Automation Team
+12,OTS_Project_KMS_Automation,Admin,United States,Administrator (Contractor),OTS_Project_KMS_Automation,6XsfKXOo/sMq0CMLe0MRbVRNA3GpIC2P,EWN-415871,,KMS-The Automation Team
+13,Admin,KMS,United States,Administrator (Contractor),Admin_KMS,Skh6gvxPwTxSGxlpYZc6+g==,EWN-138832,,KMS Operator  DO NOT ALTER! FOR AUTOMATION ONLY
+14,Administrator,User for OT-030,Viet Nam,,UserForOT030,6XsfKXOo/sMq0CMLe0MRbVRNA3GpIC2P,EWN-180425,,
+15,Administrator,User for OT-029,Viet Nam,,UserForOT029,6XsfKXOo/sMq0CMLe0MRbVRNA3GpIC2P,EWN-842202,,
+16,adminReport,Admin For Status Report,United States,,statusReport01@kms-technology,6XsfKXOo/sMq0CMLe0MRbVRNA3GpIC2P,,,
+17,Project_KMS_OST,Admin,United States,,Project_KMS_OST_Admin,6XsfKXOo/sMq0CMLe0MRbVRNA3GpIC2P,EWN-725560,,KMS-The Automation Team
+18,User,KMS,,,,,EWN-135597,,KMS Operator  DO NOT ALTER! FOR AUTOMATION ONLY
+19,Admin,Activity Report,Viet Nam,,ActivityReportAdmin,6XsfKXOo/sMq0CMLe0MRbVRNA3GpIC2P,EWN-591573,,
+20,User,Activity Report,Viet Nam,,ActivityReportUser,6XsfKXOo/sMq0CMLe0MRbVRNA3GpIC2P,EWN-661801,,
+21,Admin,Activity Report_01,Viet Nam,,ActivityReportAdmin_01,6XsfKXOo/sMq0CMLe0MRbVRNA3GpIC2P,EWN-339694,,
+22,User,Activity Report,Viet Nam,,ActivityReportUser_01,6XsfKXOo/sMq0CMLe0MRbVRNA3GpIC2P,EWN-746747,,
+23,Ngan,Nguyen,Viet Nam,,ngannguyen@kms-technology.com,6XsfKXOo/sMq0CMLe0MRbVRNA3GpIC2P,EWN-215408,EWN-215408,
+24,Huyen,Huynh,Viet Nam,,huyenhuynh,6XsfKXOo/sMq0CMLe0MRbVRNA3GpIC2P,EWN-712251,,
+25,MRA-010,User,United States,,MRA010,Pgq1dTW//iUa6vPBeysmYA==,EWN-322805,,KMS-The Automation Team

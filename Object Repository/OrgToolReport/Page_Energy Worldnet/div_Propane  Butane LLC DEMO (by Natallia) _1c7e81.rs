@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Propane  Butane LLC DEMO (by Natallia) _1c7e81</name>
+   <tag></tag>
+   <elementGuidId>31af3727-ee70-4eb6-b860-bfd0bfa6f101</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-content']/div/div/div/div/form/div[2]/ewn-dual-list/div/div/div[2]/div[2]/div[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b0b4901f-e12c-4c5f-ae3a-c1e2caba782d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item vs-repeat-repeated-element ng-scope draggable</value>
+      <webElementGuid>ad0a25a0-8fef-4087-9b20-71377d4de003</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'list-group-item-danger': i.$recentlyMoved}</value>
+      <webElementGuid>ff864497-4766-40c2-a93a-932cd1bff3ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>i in $vs_collection</value>
+      <webElementGuid>cbd47cc3-c4b5-41ff-8067-4ae814cc6e7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vm.itemClicked(i, config.left.items, vm.left, $event)</value>
+      <webElementGuid>08951eb6-fd52-4e8d-ac99-a570e0e1cd29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ewn-draggable</name>
+      <type>Main</type>
+      <value>{item: i, side: 'left'}</value>
+      <webElementGuid>2fdd4f43-be19-44e9-8a67-1d27fae0538d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d1595f7e-7518-4ee4-8387-ee0bdcce0f80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Propane &amp; Butane LLC DEMO (by Natallia) © - LCMS-86</value>
+      <webElementGuid>53809cfe-c5c4-448e-b3e7-c1cfc1e55b6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;product-section group-item-status-report ng-scope&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane ng-scope active&quot;]/form[@class=&quot;form-horizontal ng-valid ng-scope ng-valid-required ng-dirty ng-valid-parse ng-valid-date&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1&quot;]/ewn-dual-list[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;dual-list clearfix&quot;]/div[@class=&quot;dual-list-left col-xs-12 col-sm-12 col-md-5 col-lg-5 droppable&quot;]/div[@class=&quot;list-group&quot;]/div[@class=&quot;list-group-container ng-scope&quot;]/div[@class=&quot;list-group-item vs-repeat-repeated-element ng-scope draggable&quot;]</value>
+      <webElementGuid>9bd5fe5a-ce4f-4c16-bcac-ed9ecf80cb6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div/div/div/form/div[2]/ewn-dual-list/div/div/div[2]/div[2]/div[6]</value>
+      <webElementGuid>c8a7aa20-b3b7-4a5e-8433-28cd3332402d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Propane &amp; Butane LLC DEMO (by Natallia) © - Check_Archived'])[1]/following::div[1]</value>
+      <webElementGuid>235cd37e-beda-44a9-8b47-3c2a5969049c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NTC (by Natallia) © - Urgent_1'])[1]/following::div[2]</value>
+      <webElementGuid>982dde87-7db4-420c-a25c-3148cc55a4c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Propane &amp; Butane LLC DEMO (by Natallia) © - Rescue'])[1]/preceding::div[1]</value>
+      <webElementGuid>96f0b294-793f-4b88-a8e9-75b2f84479e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[6]</value>
+      <webElementGuid>ab9685b2-425f-4ed4-b2ba-9e69e97e0384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Propane &amp; Butane LLC DEMO (by Natallia) © - LCMS-86' or . = ' Propane &amp; Butane LLC DEMO (by Natallia) © - LCMS-86')]</value>
+      <webElementGuid>de620baa-38c4-4df9-ba47-6cdf1a80cb94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

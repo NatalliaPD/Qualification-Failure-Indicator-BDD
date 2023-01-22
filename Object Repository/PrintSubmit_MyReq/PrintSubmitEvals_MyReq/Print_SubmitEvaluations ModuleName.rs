@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Print_SubmitEvaluations ModuleName</name>
+   <tag></tag>
+   <elementGuidId>d42fcdcc-9ebb-464d-a598-d99ea1244a96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordiongroup-50-9835-tab']/h4/a/span/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Print/Submit Evaluations' or . = 'Print/Submit Evaluations')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#accordiongroup-50-9835-tab > h4.panel-title > a.accordion-toggle > span.ng-binding > a.ng-scope > span.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5620fa82-a011-4eed-bd3a-41572e44776e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind</name>
+      <type>Main</type>
+      <value>com.title</value>
+      <webElementGuid>fb5b01a8-4256-4752-ad32-96cdbc35b06e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>633c6583-5f08-4cfd-a2e1-ae6cb2acc295</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Print/Submit Evaluations</value>
+      <webElementGuid>dd7c7aa2-bda7-4ed2-a3d1-bdd2971e4f03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordiongroup-50-9835-tab&quot;)/h4[@class=&quot;panel-title&quot;]/a[@class=&quot;accordion-toggle&quot;]/span[@class=&quot;ng-binding&quot;]/a[@class=&quot;ng-scope&quot;]/span[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>f9d58e20-cec8-4790-9e90-22eebb19ecd9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordiongroup-50-9835-tab']/h4/a/span/a/span[2]</value>
+      <webElementGuid>aa5e1cd3-0643-43e5-9159-096d3751d44f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrator'])[1]/following::span[3]</value>
+      <webElementGuid>7ad24037-75f9-4f4c-8ba4-9c2c4a5d0307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evaluator Tool'])[1]/following::span[4]</value>
+      <webElementGuid>1bb01cd0-3e76-48b3-b297-f602f299d645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print Evaluations'])[1]/preceding::span[1]</value>
+      <webElementGuid>ccf959a1-1107-4956-8d52-6307aa9d1e75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print PE/CBT/WE evaluations'])[1]/preceding::span[1]</value>
+      <webElementGuid>8f7f0c88-f9ee-41f6-8733-d39ae10c9eaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Print/Submit Evaluations']/parent::*</value>
+      <webElementGuid>efced128-a7ac-457b-a8fb-11f30da431af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/h4/a/span/a/span[2]</value>
+      <webElementGuid>c5d275c8-7767-4d95-afdb-eab5a180a248</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Print/Submit Evaluations' or . = 'Print/Submit Evaluations')]</value>
+      <webElementGuid>b74bf651-efdb-41d4-8e6b-b1e86f79d42e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

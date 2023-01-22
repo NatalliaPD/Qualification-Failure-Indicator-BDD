@@ -1,0 +1,4 @@
+index,employeeName,employeeId,evaluationType,evaluationId,evaluationTitle,dateTaken,score
+1,"Activity Report, Admin",EWN-591573,Performance Evaluation,2199,EWN-PE-Abandonment of Facilities,08/02/2022,100
+2,,,Computer Based Training,2203,EWN-CBT-AOC Alarms,08/02/2022 9:16 AM,17
+3,,,Written Evaluation,2648,EWN-WE-Shutdown of a Pipeline,08/02/2022,80

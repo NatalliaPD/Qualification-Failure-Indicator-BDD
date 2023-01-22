@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Preview</name>
+   <tag></tag>
+   <elementGuidId>493662f8-00d8-452e-8f42-2f8af7e9a14f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit' and @class='btn button-secondary']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;layout-content&quot;)/div[@class=&quot;product-section ng-scope&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane ng-scope active&quot;]/form[@class=&quot;form-horizontal ng-scope ng-valid-date ng-dirty ng-valid-parse ng-valid-date-disabled ng-valid-min ng-valid-max ng-valid ng-valid-required&quot;]/div[@class=&quot;container-fluid text-center&quot;]/button[@class=&quot;btn button-secondary&quot;]/span[@class=&quot;ri-search-line&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.button-secondary > span.ri-search-line</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a3fca18c-68f3-4dff-8bc8-ee013c6f30e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ri-search-line</value>
+      <webElementGuid>9860364b-cc89-4bc4-95e0-46f6b815ada6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-content&quot;)/div[@class=&quot;product-section ng-scope&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane ng-scope active&quot;]/form[@class=&quot;form-horizontal ng-scope ng-valid-date ng-dirty ng-valid-parse ng-valid-date-disabled ng-valid-min ng-valid-max ng-valid ng-valid-required&quot;]/div[@class=&quot;container-fluid text-center&quot;]/button[@class=&quot;btn button-secondary&quot;]/span[@class=&quot;ri-search-line&quot;]</value>
+      <webElementGuid>ddcd9dd7-0981-4e2a-b2da-81021a286978</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-content']/div/div[3]/div/div/form/div[2]/button/span</value>
+      <webElementGuid>cce93b4f-091e-4cc8-98f1-6a22a2cc506f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/button/span</value>
+      <webElementGuid>a2f7563c-f87d-4c9e-b2b2-20154ef9c4b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

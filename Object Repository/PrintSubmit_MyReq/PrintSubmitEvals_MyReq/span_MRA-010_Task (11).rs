@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_MRA-010_Task (11)</name>
+   <tag></tag>
+   <elementGuidId>52dc3742-6f06-4b93-b0f1-c8a0d437f5a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='user0']/task-requirement-list/table/tbody/tr/td[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-binding.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b36c2497-a2af-4c81-b1cb-316ad10d479b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>!t.isDirectlyAssignedEvaluations</value>
+      <webElementGuid>9fc4e1a2-028a-4229-bc53-db4aa0c2c086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind</name>
+      <type>Main</type>
+      <value>t.name</value>
+      <webElementGuid>9ee4d64f-497e-44be-80f7-7cdc05e4ee21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding ng-scope</value>
+      <webElementGuid>dc499766-6488-486e-89a1-2287a8a086d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MRA-010_Task (1:1)</value>
+      <webElementGuid>b525ad37-9ef3-4eb1-be64-3cb0ece9aa46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user0&quot;)/task-requirement-list[@class=&quot;ng-isolate-scope&quot;]/table[@class=&quot;table table-striped table-condensed task-requirement-list&quot;]/tbody[1]/tr[@class=&quot;task-row nested-table-accordion-header ng-scope&quot;]/td[@class=&quot;task-cell name nested-table-accordion-header-name&quot;]/span[@class=&quot;ng-binding ng-scope&quot;]</value>
+      <webElementGuid>3066ac8b-fdca-4fe5-a704-0237c0bb49d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='user0']/task-requirement-list/table/tbody/tr/td[3]/span</value>
+      <webElementGuid>508cfa9e-a20c-4a5b-bfd1-40d48a44e559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MRA-010'])[1]/following::span[1]</value>
+      <webElementGuid>9060f91a-0765-42c0-a0f3-1e8250b9a7ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Certificate'])[1]/following::span[2]</value>
+      <webElementGuid>35982145-e63c-4df2-9266-846bcdfd8835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[2]/preceding::span[4]</value>
+      <webElementGuid>48edbc3c-9863-47f8-989b-1c1d29a91555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[2]/preceding::span[4]</value>
+      <webElementGuid>d3cb43da-9789-4663-89d8-00e125ea1b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MRA-010_Task (1:1)']/parent::*</value>
+      <webElementGuid>71da6eff-7fa6-4c7e-9e9a-6c7520df482a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/span</value>
+      <webElementGuid>e53fb99f-b912-4407-a758-e2330c8e22da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'MRA-010_Task (1:1)' or . = 'MRA-010_Task (1:1)')]</value>
+      <webElementGuid>0f78a980-1f53-4a0e-ac6f-6cf3601e66c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

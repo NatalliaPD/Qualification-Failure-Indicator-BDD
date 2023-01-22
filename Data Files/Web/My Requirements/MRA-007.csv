@@ -1,0 +1,3 @@
+index,evaluationName,taskName,taskCode,taskListName,examRetakeWaitMessage,maximunAtttemtptMessage
+1,CBT with english and Spanish Exam MRA-007- should run faied,Task CBT with exam MRA-007-1,Task_MRA-007-1,Task List for MR Exam - MRA-007-1,Exam Retake Wait Period Required,Maximum Attempts Reached
+,,,,,There is a 12 hour wait period to retake this exam. Please wait the allotted time and then launch the exam again.,You have reached the maximum number of attempts for the exam. Please contact your company administrator or supervisor to continue.

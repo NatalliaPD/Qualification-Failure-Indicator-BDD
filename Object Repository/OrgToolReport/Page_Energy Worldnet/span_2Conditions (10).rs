@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2Conditions (10)</name>
+   <tag></tag>
+   <elementGuidId>a7218686-048f-429d-9992-726ca2323455</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='user0-groupItem0']/task-requirement-list/table/tbody/tr[5]/td[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>134bbcc3-6b85-409c-a136-8d063fd1b174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>!t.isDirectlyAssignedEvaluations</value>
+      <webElementGuid>a03ea3a2-aefd-4ddd-a2d7-40646ec9d57b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind</name>
+      <type>Main</type>
+      <value>t.name</value>
+      <webElementGuid>446410db-3d35-430f-b64a-e29c7af3788d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding ng-scope</value>
+      <webElementGuid>f69b7d4b-6081-4652-bba0-0a1191393494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2Conditions (1:0)</value>
+      <webElementGuid>792ae7a9-e52a-4d49-bcfd-1beb1545ca34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user0-groupItem0&quot;)/task-requirement-list[@class=&quot;ng-isolate-scope&quot;]/table[@class=&quot;table table-striped table-condensed task-requirement-list&quot;]/tbody[1]/tr[@class=&quot;task-row nested-table-accordion-header ng-scope&quot;]/td[@class=&quot;task-cell name nested-table-accordion-header-name&quot;]/span[@class=&quot;ng-binding ng-scope&quot;]</value>
+      <webElementGuid>2a0cac1a-3679-4423-913c-ab59d046710f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='user0-groupItem0']/task-requirement-list/table/tbody/tr[5]/td[3]/span</value>
+      <webElementGuid>6d2c61b8-9aef-408e-9730-2e240b2b0176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Complete'])[11]/following::span[3]</value>
+      <webElementGuid>e6097100-2373-45b6-861d-faa61c0e797f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Complete'])[10]/following::span[3]</value>
+      <webElementGuid>ac09117c-16ad-4fa2-a358-1cce3e65e965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Failed Qualification'])[1]/preceding::span[1]</value>
+      <webElementGuid>16eac175-ab1b-4016-90ba-656c895a6d2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[3]/preceding::span[5]</value>
+      <webElementGuid>81cf3f11-a784-41e8-a63d-2b285b7406f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2Conditions (1:0)']/parent::*</value>
+      <webElementGuid>9856019f-6b56-45ed-83da-79d7a05c97e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[3]/span</value>
+      <webElementGuid>c4d14489-5ba1-43e5-bfb7-51573aee52e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '2Conditions (1:0)' or . = '2Conditions (1:0)')]</value>
+      <webElementGuid>c677786c-c406-42f8-ba3f-b1286ec37a4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

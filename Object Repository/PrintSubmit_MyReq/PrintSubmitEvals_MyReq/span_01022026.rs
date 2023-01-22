@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_01022026</name>
+   <tag></tag>
+   <elementGuidId>b1ed86d4-edb1-4147-b6c0-ef7d68194fe6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='user0']/task-requirement-list/table/tbody/tr/td[5]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.task-cell.expires-on.ng-scope > span.ng-binding.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6d4a5d02-8e31-4dca-9c55-8305ad9592df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>t.completedOn &amp;&amp; !isSuspended</value>
+      <webElementGuid>6c165f64-27ef-4130-b0f8-797e37807c46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind</name>
+      <type>Main</type>
+      <value>t.expiresOn ? (t.expiresOn | date:'MM/dd/yyyy') : (evaluationUtil.getExpirationPlaceholder(t) | translate)</value>
+      <webElementGuid>76dce062-6ba1-4d7c-a0ee-60bed103dfe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding ng-scope</value>
+      <webElementGuid>9fdcb0c4-bec7-46fe-974e-013a548d51ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>01/02/2026</value>
+      <webElementGuid>91f7e9e6-8cd3-479f-b500-6bed63d5f80e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user0&quot;)/task-requirement-list[@class=&quot;ng-isolate-scope&quot;]/table[@class=&quot;table table-striped table-condensed task-requirement-list&quot;]/tbody[1]/tr[@class=&quot;task-row nested-table-accordion-header ng-scope collapsed&quot;]/td[@class=&quot;task-cell expires-on ng-scope&quot;]/span[@class=&quot;ng-binding ng-scope&quot;]</value>
+      <webElementGuid>e7a40953-eeca-4fb3-8aa8-cbf01381f40d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='user0']/task-requirement-list/table/tbody/tr/td[5]/span</value>
+      <webElementGuid>c144cedb-a1e5-4c59-ac37-2dc1f99a7fca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MRA-010_Task (1:1)'])[1]/following::span[2]</value>
+      <webElementGuid>1bfb2a44-9b48-4c04-a5f8-d9d56ccd3eed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MRA-010'])[1]/following::span[3]</value>
+      <webElementGuid>667a65cb-7fe8-428c-a389-e9d1a4c5182d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[2]/preceding::span[2]</value>
+      <webElementGuid>7f20aa17-0ca8-46c8-a0c9-b0ea2036acb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[2]/preceding::span[2]</value>
+      <webElementGuid>02b5901a-81e4-4893-bfbb-ca1f2e45ae7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='01/02/2026']/parent::*</value>
+      <webElementGuid>31704373-bef1-4a08-b127-82c12c46c46b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/span</value>
+      <webElementGuid>c5bd5275-d004-415a-bc65-3310a9d24d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '01/02/2026' or . = '01/02/2026')]</value>
+      <webElementGuid>95b4545c-5c64-4940-9800-d0be3ac3faba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

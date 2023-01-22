@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "C83848F633CD5FB3A7D4D787F828EB6F",
+  "keywordClasses": [
+    {
+      "name": "com.ewn.common.page.OnDataTable",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "19C5B55A867CF982A95B4E8F7132296A",
+  "keywordClasses": [
+    {
+      "name": "com.ewn.reports.ExpiringDashboardPage",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

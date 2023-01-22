@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_A, Flyer - EWN-195138_pull-right ng-p_b0ac95</name>
+   <tag></tag>
+   <elementGuidId>69114e1f-1187-4797-98c6-bbfc8ffd44cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='checkbox'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>35244c0f-4530-486f-a3da-31c82f8d65cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>7c20a537-d784-465b-8c33-c0e9b498e443</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pull-right ng-pristine ng-untouched ng-valid ng-empty</value>
+      <webElementGuid>7a944e7d-de78-446f-807e-af01dd40cb86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>i.$selected</value>
+      <webElementGuid>c84af863-e46d-4c78-82f0-95513ebe3e8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vm.itemCheckboxClicked(i, config.left.items, vm.left, $event, true)</value>
+      <webElementGuid>096558c7-c5c9-4c8a-8c50-68866fbc91cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>vm.checkToggle(i, vm.left)</value>
+      <webElementGuid>615d1764-8dcc-4226-8d28-faefff54c5fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmTaskStatus&quot;)/div[@class=&quot;ng-scope&quot;]/ewn-associate-dual-listbox[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1 ng-scope&quot;]/ewn-dual-list[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;dual-list clearfix&quot;]/div[@class=&quot;dual-list-left col-xs-12 col-sm-12 col-md-5 col-lg-5 droppable&quot;]/div[@class=&quot;list-group&quot;]/div[@class=&quot;list-group-container ng-scope&quot;]/div[@class=&quot;list-group-item vs-repeat-repeated-element ng-scope draggable&quot;]/input[@class=&quot;pull-right ng-pristine ng-untouched ng-valid ng-empty&quot;]</value>
+      <webElementGuid>c0633311-54c2-44df-bb7f-12d8d01e687c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='checkbox'])[4]</value>
+      <webElementGuid>93f67e50-467d-438f-8c19-7adbbb975729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmTaskStatus']/div[3]/ewn-associate-dual-listbox/div/ewn-dual-list/div/div/div[2]/div[2]/div[3]/input</value>
+      <webElementGuid>71c2290a-cb2b-4d57-9877-7825eec3dc8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>fe6cbfbd-bbd5-4af9-a622-2841c109e2a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>86d5017d-bfe2-404d-b08e-ef63b9b68e45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

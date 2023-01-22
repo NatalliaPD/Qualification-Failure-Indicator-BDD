@@ -1,0 +1,3 @@
+index,userName,userCode,evaluationName,evaluationCode,description,facilityTaskList,taskName,taskCode,interval,addBy
+1,"Administrator, Automation",EWN-398944,CBT with english - MRT008,117060,Facility for OT013,Facility task list,Auto Task 008 with 2 conditions,060808,36,Automation Administrator
+2,"Admin, User2-OT-002",EWN-431786,CBT_EA_Common,117057

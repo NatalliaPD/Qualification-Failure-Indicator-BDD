@@ -1,0 +1,10 @@
+index,taskListName,userId,userName,evaluationId,evaluationName
+1,Task List for STATUS 024,EWN-181958,"User for Status Report, Administrator",117102,CBT Evaluate for Report Status-001
+,,,,117103,Copy of CBT Evaluate for Report Status-002
+,,,,,
+,Data setup,,,,
+,Task List for STATUS 024 has 3 tasks,"TASK-Status-001, 
+TASK-Status-002,
+TASK-Status-003",,,
+,2 these tasks are assigned to the user EWN-799548,,,,
+,"The user completed TASK-Status-001,  and TASK-Status-002",,,,

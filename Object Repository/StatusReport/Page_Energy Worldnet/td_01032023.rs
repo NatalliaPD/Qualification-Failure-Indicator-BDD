@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_01032023</name>
+   <tag></tag>
+   <elementGuidId>010abb2a-e51a-4d08-ad93-4144e919872c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.task-cell.completed-on.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='user0']/task-requirement-list/table/tbody/tr/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>4e2afb3f-73a7-428c-81ed-8d2ad0490a50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>task-cell completed-on ng-scope</value>
+      <webElementGuid>52d532f1-283f-4fbe-b314-650ddf8a6132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>isDetailedView</value>
+      <webElementGuid>cfd19b10-d811-46c5-af7b-9b702d19f334</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>01/03/2023 </value>
+      <webElementGuid>0e577226-831a-41a7-9ccc-9663f96a963a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user0&quot;)/task-requirement-list[@class=&quot;ng-isolate-scope&quot;]/table[@class=&quot;table table-striped table-condensed task-requirement-list&quot;]/tbody[1]/tr[@class=&quot;task-row nested-table-accordion-header ng-scope&quot;]/td[@class=&quot;task-cell completed-on ng-scope&quot;]</value>
+      <webElementGuid>9f88217b-1474-4c2e-8442-1a40b9168a33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='user0']/task-requirement-list/table/tbody/tr/td[4]</value>
+      <webElementGuid>8eaa90fe-af07-4714-ab9b-8453e72e80d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Failed Qualification'])[1]/following::td[1]</value>
+      <webElementGuid>65a92b6d-496b-41f7-aaa4-11e6c9e48376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PE_Cond (1:0)'])[1]/following::td[1]</value>
+      <webElementGuid>357ca82f-8999-4bc1-b69d-62636cc6f8d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[2]/preceding::td[3]</value>
+      <webElementGuid>a0a86743-5797-4efe-b027-d0da9406c12b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[2]/preceding::td[3]</value>
+      <webElementGuid>85217a41-662e-4b40-a8b7-6e2eb5b4ddf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>e2ddfabc-d569-4e35-9088-1077c71b3fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '01/03/2023 ' or . = '01/03/2023 ')]</value>
+      <webElementGuid>fd854474-2674-43cd-b58d-2935bf4e5b17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

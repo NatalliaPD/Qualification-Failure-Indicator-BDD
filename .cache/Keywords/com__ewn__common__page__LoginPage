@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "A222AAA2F2733F910E2E77DBC5E170CC",
+  "keywordClasses": [
+    {
+      "name": "com.ewn.common.page.LoginPage",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

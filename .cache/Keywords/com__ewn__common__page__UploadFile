@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "BBED2E11AC407FBF2F8FFE1D9C1D85F6",
+  "keywordClasses": [
+    {
+      "name": "com.ewn.common.page.UploadFile",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "F39EF714C0E8775451FFD99A242C52C0",
+  "keywordClasses": [
+    {
+      "name": "com.ewn.task.management.TaskListsPage",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,3 @@
+index,employeeName,employeeId,evaluationType,evaluationId,evaluationTitle,score,evaluationDate,status,evaluator
+1,"Administrator, Automation",EWN-398944,Computer Based Training,118610,CBT For SE006,67,8/18/2022,Failed,"Administrator, Automation"
+2,"Automation, Administrator ",EWN-154130,Performance Evaluation,118608,CBT For SE006.2,,8/18/2022,,

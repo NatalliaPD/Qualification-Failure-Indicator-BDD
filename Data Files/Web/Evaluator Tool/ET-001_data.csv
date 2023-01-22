@@ -1,0 +1,2 @@
+userName,userId,fullUserName,evaluatorUserId,evaluationType,evaluationId,evaluationTitle,taskListName,taskName,taskCode,prerequiredMsg
+PreReq KMS,EWN-871943,PreReq KMS - EWN-871943,EWN-398944,Performance Evaluation,2199,EWN-PE-Abandonment of Facilities,_PreReqs,Prereq1,task-Prereq1,You do not have the appropriate permission to access this evaluation. Please contact your company administrator for access.

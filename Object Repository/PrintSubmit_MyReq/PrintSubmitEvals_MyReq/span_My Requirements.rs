@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_My Requirements</name>
+   <tag></tag>
+   <elementGuidId>cf192f04-50e0-494d-b935-77997d1befcc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-menu']/div/uib-accordion/div/div/div/div/div/div/div/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a > span.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>183fdfef-75ad-429f-81f9-1039d26234ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind</name>
+      <type>Main</type>
+      <value>com.title</value>
+      <webElementGuid>0380161c-dd54-44ac-bea2-97d80165669c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>84788448-556e-45f7-bf8e-4d81c0f91d81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Requirements</value>
+      <webElementGuid>cf1e92b5-6d3a-460d-9ec5-632c89e672c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-menu&quot;)/div[@class=&quot;ng-scope&quot;]/uib-accordion[@class=&quot;accordion accordion-menu&quot;]/div[@class=&quot;panel-group&quot;]/div[@class=&quot;side-menu-container ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-heading accordion-menu-panel-header&quot;]/div[@class=&quot;panel-title side-menu-panel-header&quot;]/a[1]/span[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>433564cb-c478-4387-89d2-75dd4c002b90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-menu']/div/uib-accordion/div/div/div/div/div/div/div/a/span[2]</value>
+      <webElementGuid>5178e18b-5436-4af8-a97d-0b4492d7e14d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Toolbox'])[1]/following::span[2]</value>
+      <webElementGuid>4a1f59b5-bfc6-40b5-9286-9916b1d6602a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live Chat with an Expert'])[1]/following::span[4]</value>
+      <webElementGuid>9e5c5efb-2649-4a2f-9d0d-b7e86814b66d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification Center'])[1]/preceding::span[2]</value>
+      <webElementGuid>3368b4c5-a188-409f-9e5c-4901567944d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Reports'])[1]/preceding::span[4]</value>
+      <webElementGuid>ee294ad5-f1c1-471e-9519-1a04c0159590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Requirements']/parent::*</value>
+      <webElementGuid>4d0d28a4-c4d3-4466-9901-3fc65b8051f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/span[2]</value>
+      <webElementGuid>a28b9bdf-3357-4dd7-b833-5ee3379babb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'My Requirements' or . = 'My Requirements')]</value>
+      <webElementGuid>fd7b2775-28fd-4c3c-8c2c-73925b543169</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

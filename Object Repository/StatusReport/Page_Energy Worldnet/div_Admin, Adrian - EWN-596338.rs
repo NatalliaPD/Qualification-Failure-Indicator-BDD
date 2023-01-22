@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Admin, Adrian - EWN-596338</name>
+   <tag></tag>
+   <elementGuidId>740f49f5-6215-4ee3-818e-e42f9e04fbcc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmTaskStatus']/div[3]/ewn-associate-dual-listbox/div/ewn-dual-list/div/div/div[2]/div[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bb4c3119-aada-4ffa-ad3a-58b762d5db4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item vs-repeat-repeated-element ng-scope draggable</value>
+      <webElementGuid>3696b6b8-ff33-4731-a474-3dc7e7f41e6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'list-group-item-danger': i.$recentlyMoved}</value>
+      <webElementGuid>d8d0b8b1-49f5-4496-afb1-6e81a2e28fc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>i in $vs_collection</value>
+      <webElementGuid>d6b1911c-8423-42da-a468-2fcf4f8ea0aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vm.itemClicked(i, config.left.items, vm.left, $event)</value>
+      <webElementGuid>959900ad-65a6-4171-8eba-507c504806e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ewn-draggable</name>
+      <type>Main</type>
+      <value>{item: i, side: 'left'}</value>
+      <webElementGuid>d5b04e67-78bf-4eb9-b6c6-651d63b0aeec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e6b276ef-e83a-4e02-b1e3-c411df72c27a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Admin, Adrian - EWN-596338</value>
+      <webElementGuid>00fcb3b9-751a-49e1-a9b9-fdc06d3727eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmTaskStatus&quot;)/div[@class=&quot;ng-scope&quot;]/ewn-associate-dual-listbox[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1 ng-scope&quot;]/ewn-dual-list[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;dual-list clearfix&quot;]/div[@class=&quot;dual-list-left col-xs-12 col-sm-12 col-md-5 col-lg-5 droppable&quot;]/div[@class=&quot;list-group&quot;]/div[@class=&quot;list-group-container ng-scope&quot;]/div[@class=&quot;list-group-item vs-repeat-repeated-element ng-scope draggable&quot;]</value>
+      <webElementGuid>b81ea412-f709-4e11-adeb-218e6edce6c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmTaskStatus']/div[3]/ewn-associate-dual-listbox/div/ewn-dual-list/div/div/div[2]/div[2]/div[3]</value>
+      <webElementGuid>917b78e5-5855-4855-bbfa-77fe073d2e58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A, Flyer - EWN-195138'])[1]/following::div[1]</value>
+      <webElementGuid>cfe68ef2-421d-4755-b25d-d40ca93f1d21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available Employees'])[1]/following::div[4]</value>
+      <webElementGuid>59ddd475-2626-43df-9599-e2103c3f5150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADMIN, Natallia - EWN-269775'])[1]/preceding::div[1]</value>
+      <webElementGuid>df7e0e36-d497-4469-8d6e-e3a8766d8888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[3]</value>
+      <webElementGuid>b0769c69-ddfc-45b6-8c7a-7793b87674a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Admin, Adrian - EWN-596338' or . = ' Admin, Adrian - EWN-596338')]</value>
+      <webElementGuid>a83b8901-ff70-4cac-9d80-65cbaad06db5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

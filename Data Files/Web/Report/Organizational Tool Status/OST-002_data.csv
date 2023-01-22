@@ -1,0 +1,15 @@
+index,facilityCode,facilityName,taskCode,taskName,evaluationID1,evaluationName1,evaluationID2,evaluationName2,employeeName,employeeId
+1,Facility-001,OST-001 Facility,OTS003,OTS Task Facility with multiple condition (1:0),117272,Evaluation with multiple Facility1,117273,Evaluation with multiple Facility2,"User, For Report",EWN-382599
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,Test Data Description,Use the same as data of OTS-001,,,,,,,,
+Items,Description,,Use the same data with OTS-001,,,,,,,
+,Current login user: EWN-382599,,,,,,,,,
+1,Facility-001 contains user EWN-545752 and EWN-382599,Open Facility-001-> user tab-> add these users into the facility,,,,,,,,
+2,Facility-001 contains Task: OTS003,Open Facility-001 -> Task tab-> add this task into the facility,,,,,,,,
+3,"Task OTS003 has condition are evaluations 117272, 117273",Open the task-> condition tab  then add these evaluation into,,,,,,,,
+4,Assign this evaluation1 ( 117272 ) into Facility-001,Open Facility-001 and Evaluation tab-> add this evaluation into the facility,,,,,,,,
+5,"Go to my requirement, completed assign tasks and evaluations",,,,,,,,,

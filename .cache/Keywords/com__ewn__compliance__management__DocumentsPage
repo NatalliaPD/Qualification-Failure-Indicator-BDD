@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "3A11E7DEF3767D999A5DF3B31DBD6C85",
+  "keywordClasses": [
+    {
+      "name": "com.ewn.compliance.management.DocumentsPage",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

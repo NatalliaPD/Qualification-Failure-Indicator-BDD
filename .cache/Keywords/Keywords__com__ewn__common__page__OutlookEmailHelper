@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "0A79B9F1DB5017B8640A89F167730D88",
+  "keywordClasses": [
+    {
+      "name": "com.ewn.common.page.OutlookEmailHelper",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

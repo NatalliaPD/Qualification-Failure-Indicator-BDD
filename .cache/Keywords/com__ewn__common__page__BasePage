@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "FE891F5F2C6DD578E5FE945D003935F5",
+  "keywordClasses": [
+    {
+      "name": "com.ewn.common.page.BasePage",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

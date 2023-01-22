@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "8C5081E0CA819775A1D8AA4C53FC022A",
+  "keywordClasses": [
+    {
+      "name": "com.ewn.account.management.EvaluatorQualificationsPage",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
